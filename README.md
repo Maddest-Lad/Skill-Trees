@@ -1,5 +1,5 @@
 ### Overview
-Inspired by skill trees and leveling systems in video games, I've often wondered why there haven't been programs built for tracking your real life status in a similar way. This project is an attempt to bring that concept to fruition.
+Inspired by skill trees and leveling systems in video games, I've often wondered why there haven't been programs built for tracking your real life goals / abilities in a similar way. This project is an attempt to bring that concept to fruition.
 
 ### TODO List
 - [X] Doubly Linked Tree (Underlying Data Structure)
