@@ -121,6 +121,7 @@ public class Skill {
     }
 
     public String toString() {
+        update();
         StringBuilder buffer = new StringBuilder(50);
         print(buffer, "", "");
         return buffer.toString();

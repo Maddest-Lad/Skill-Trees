@@ -16,7 +16,7 @@ So far, I've gotten the underlying data structure roughly created, I might chang
 
 Example Printout From Current Version: 
 ```
-Comp Sci [29%]
+Comp Sci [62%]
 ├── Data Structures [59%]
 │   ├── Lists [97%]
 │   ├── Graphs [32%]
